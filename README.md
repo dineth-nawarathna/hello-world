@@ -1,2 +1,4 @@
 # hello-world
-My hello-world Application
+Hello,
+
+This is first in Github 
